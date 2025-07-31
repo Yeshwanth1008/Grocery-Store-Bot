@@ -244,7 +244,7 @@ The bot includes comprehensive logging:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [IITM License](LICENSE).
 
 ## Support
 
